@@ -20,7 +20,7 @@ deps.ednに追記
 :deps {io.github.PenguinCabinet/totuzen-AA.clj {:git/tag "v0.0.1" }}
 ```
 
-## サンプル
+### サンプル
 
 ```clojure
 (require '[totuzen-aa :as t-aa])
