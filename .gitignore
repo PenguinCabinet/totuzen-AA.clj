@@ -1,4 +1,5 @@
-/.clj-kondo
-/.cpcache
-/.lsp
-/test-proj
+.clj-kondo
+.cpcache
+.lsp
+/sample-proj
+/
